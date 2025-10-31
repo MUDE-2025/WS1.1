@@ -2,7 +2,7 @@
 
 *Due: You do not need to hand this in.*
 
-You can access this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/WS1.1/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer.
+You can access this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/WS1.1/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/WS1.1/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer.
 
 Now that you have completed all the steps to set up your computer and environment (if you finalized the PA ;) ), it is time to try out a few Python functionalities in your shiny new setup!
 Please open the file [Warming up](./Warming_Up.ipynb) in VS code and work through the notebook. 
